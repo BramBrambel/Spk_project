@@ -10,18 +10,18 @@ const tags: string[] = allBlogArticles.flatMap((article: any) => article.data.ta
 const uniqueTags: string[] = [...new Set(tags)];
 ---
 
-<footer class="bg-indigo-900 text-white">
+<footer class="bg-slate-700 text-white">
   <div class="container mx-auto mt-10 max-w-screen-xl px-8">
     <div class="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-4">
       <div class="mt-10">
-        <h3 class="text-xl font-semibold mb-4">About</h3>
+        <h3 class="text-xl font-semibold mb-4">О компании</h3>
         <p class="text-white text-sm">
-          Наша команда уделяет особое внимание уникальности каждого проекта,
+            Мы уделяем особое внимание уникальности каждого проекта,
            гарантируя полное соответствие потребностям и пожеланиям клиента.
         </p>
       </div>
       <div class="mt-10">
-        <h3 class="text-xl font-semibold mb-4">Categories</h3>
+        <h3 class="text-xl font-semibold mb-4">Категории</h3>
         <ul class="text-white text-sm">
           {uniqueTags.map(tag => (
             <li class="mb-2">
@@ -31,19 +31,17 @@ const uniqueTags: string[] = [...new Set(tags)];
         </ul>
       </div>
       <div class="mt-10">
-        <h3 class="text-xl font-semibold mb-4">Contact</h3>
+        <h3 class="text-xl font-semibold mb-4">Контакты</h3>
         <ul class="text-white text-sm">
           <li class="mb-2">
             <a href="#">Email</a>
           </li>
           <li class="mb-2">
-            <a href="#">Twitter</a>
+            <a href="#">Tеlegram</a>
           </li>
           <li class="mb-2">
-            <a href="#">Facebook</a>
+            <a href="#">WhatsApp</a>
           </li>
-          <li class="mb-2">
-            <a href="#">Instagram</a>
-          </li>
+          
         </ul>
 </footer>

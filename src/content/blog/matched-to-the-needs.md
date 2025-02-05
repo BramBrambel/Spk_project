@@ -3,7 +3,7 @@ title: 'Система дистанционного управления'
 pubDate: 2024-01-14
 author: 'Ralph Johnson'
 image: 'modern2.jpg'
-tags: ['Светодизайн', 'Светотехника']
+tags: ['Офисное', 'Интерерное']
 slug: 'matched-to-the-needs' 
 ---
 

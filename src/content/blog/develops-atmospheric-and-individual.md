@@ -3,7 +3,7 @@ title: 'Система дистанционного управления'
 pubDate: 2024-01-18
 author: 'Michael Johnson'
 image: 'modern2.jpg'
-tags: ['tech', 'button', 'tech']
+tags: [ 'Спорт', 'Системы управления']
 slug: 'develops-atmospheric-and-individual'
 ---
 

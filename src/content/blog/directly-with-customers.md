@@ -3,7 +3,7 @@ title: 'Система дистанционного управления'
 pubDate: 2024-01-17
 author: 'Jane Smith'
 image: 'modern2.jpg'
-tags: ['Дизайн', 'Светодиоды', 'Ландшавт']
+tags: ['Акцентное', 'Линейное', 'Архитектурное']
 slug: 'directly-with-customers'
 ---
 
