@@ -3,7 +3,7 @@ title: 'Средняя школа на 1100 мест в г.Тула '
 pubDate: 2024-01-20
 author: 'John Doe'
 image: 'modern.jpg'
-tags: ['button', 'button']
+tags: ['Образование', 'Внутреннее освещение']
 slug: 'lighting-project-for-developers'
 
 ---

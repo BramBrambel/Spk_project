@@ -1,24 +1,17 @@
 ---
-title: 'Система дистанционного управления'
-pubDate: 2024-01-17
-author: 'Jane Smith'
+title: 'Дом детского творчества г.Химки'
+pubDate: 2024-10-03
+author: 'Дом детского творчества'
 image: 'modern2.jpg'
-tags: ['Акцентное', 'Линейное', 'Архитектурное']
+tags: ['Акцентное освещение', 'Образование', ]
 slug: 'directly-with-customers'
 ---
 
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
-## **1. Параметры энергоэффективности**
-
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
-
-## **2. Параметры энергоэффективности**
-
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
-
-## **3. Параметры энергоэффективности**
-
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
+При подборе освещения нашей основной задачей было создать ощущение простора и комфорта, 
+чтобы каждый уголок  был наполнен светом, способствующим как сосредоточенной работе,
+ так и расслабленному общению. Мы стремились к атмосфере, которая вдохновляет на учебу и делает
+ пребывание приятным. Свет должен был стать
+ союзником, а не помехой, подчеркивая архитектурные особенности пространства и создавая ощущение легкости и воздушности.
 
 
 
