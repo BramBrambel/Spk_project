@@ -21,7 +21,7 @@ In today’s extremely dynamic and constantly expanding market, we try to not on
  
 ## **2. Параметры энергоэффективности**
 
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
+In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to 
 
 ## **3. Параметры энергоэффективности**
 
