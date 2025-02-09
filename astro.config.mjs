@@ -11,7 +11,7 @@ export default defineConfig({
 
     tailwind()],
 
-  site: 'https://brambrambel.github.io',
+ 
   output: 'server',
   adapter: netlify(),
 });
