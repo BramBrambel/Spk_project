@@ -3,7 +3,7 @@ title: 'Система дистанционного управления'
 pubDate: 2024-01-16
 author: 'Sarah Davis'
 image: 'modern2.jpg'
-tags: ['light', 'tech', 'button']
+tags: ['Склады', 'Внутреннее освещение']
 slug: 'standard-lighting-systems' 
 ---
 
