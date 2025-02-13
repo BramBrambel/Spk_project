@@ -2,7 +2,7 @@
 title: 'Государственный кремлевский дворец'
 pubDate: 2024-11-08
 author: 'Склад с котельной'
-image: 'modern2.jpg'
+image: 'sklad.jpeg'
 tags: ['Склады', 'Внутреннее освещение']
 slug: 'offers-many-products' 
 ---

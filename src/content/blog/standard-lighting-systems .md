@@ -1,25 +1,16 @@
 ---
-title: 'Система дистанционного управления'
-pubDate: 2024-01-16
-author: 'Sarah Davis'
-image: 'modern2.jpg'
-tags: ['Склады', 'Внутреннее освещение']
+title: 'Кампус УРФУ'
+pubDate: 2025-01-16
+author: 'Кампус'
+image: 'kumpus.jpg'
+tags: ['Акцентное освещение', 'Внутреннее освещение']
 slug: 'standard-lighting-systems' 
 ---
 
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
+Освещение кампуса – это важный элемент инфраструктуры, который влияет на безопасность, функциональность и привлекательность образовательной среды. Правильно спроектированное и реализованное освещение способствует созданию комфортного и безопасного пространства для учебы, работы и отдыха, а также способствует энергосбережению и устойчивому развитию. Необходимо постоянно оценивать и улучшать систему освещения, чтобы она отвечала потребностям кампуса и соответствовала современным требованиям.
 
-## **1.Параметры энергоэффективности**
 
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
 
-## **2. Параметры энергоэффективности**
-
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
-
-## **3. Параметры энергоэффективности**
-
-In today’s extremely dynamic and constantly expanding market, we try to not only keep our eye on the big picture, but also always to act with the future in mind. To be on the same wavelength as our customers as well as to think ahead, to generate new momentum and to set new standards.
 
 
 

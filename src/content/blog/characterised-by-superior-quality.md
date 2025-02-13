@@ -2,7 +2,7 @@
 title: 'Школа. Московская обл г.о. Ступино, квартал, "Надежда"'
 pubDate: 2024-01-15
 author: 'Школа'
-image: 'modern.jpg'
+image: 'stupino.jpg'
 tags: [ 'Образование', 'Внутреннее освещение']
 slug: 'characterised-by-superior-quality'
 

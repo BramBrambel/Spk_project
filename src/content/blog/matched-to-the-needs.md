@@ -2,7 +2,7 @@
 title: 'Исетский кузнечно-механический завод'
 pubDate: 2024-09-23
 author: 'Плавильный цех,'
-image: 'modern2.jpg'
+image: 'industrial.jpg'
 tags: ['Промышленность', 'Внутреннее освещение']
 slug: 'matched-to-the-needs' 
 ---

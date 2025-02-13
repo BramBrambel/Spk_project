@@ -2,7 +2,7 @@
 title: 'Дом детского творчества г.Химки'
 pubDate: 2024-10-03
 author: 'Дом детского творчества'
-image: 'modern2.jpg'
+image: 'ddthimky.jpg'
 tags: ['Акцентное освещение', 'Образование', ]
 slug: 'directly-with-customers'
 ---
@@ -14,4 +14,4 @@ slug: 'directly-with-customers'
  союзником, а не помехой, подчеркивая архитектурные особенности пространства и создавая ощущение легкости и воздушности.
 
 
-
+![A starry night sky.](/images/ddthimky2.jpg)

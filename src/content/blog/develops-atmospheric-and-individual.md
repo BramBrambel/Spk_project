@@ -2,7 +2,7 @@
 title: 'Школа на 1500 мест г.Екатеринбург'
 pubDate: 2024-12-24
 author: 'Школа'
-image: 'modern2.jpg'
+image: 'school_ekb.jpg'
 tags: [ 'Образование', 'Системы управления']
 slug: 'develops-atmospheric-and-individual'
 ---
@@ -14,8 +14,10 @@ slug: 'develops-atmospheric-and-individual'
 использование энергоэффективных технологий для снижения нагрузки на электросети. Нашей целью было создание освещения, 
 которое поддерживает хорошее самочувствие и повышает эффективность учебной деятельности.
 
+![A school.](/images/school_ekb2.jpg)
 
 
+![A school.](/images/school_ekb3.jpg)
 
 
 
