@@ -1,0 +1,129 @@
+---
+import { Image } from "astro:assets";
+import pro from '../images/technology.jpg';
+import innov from '../images/innovative-solutions.jpg';
+import compass from '../images/compass.jpg';
+---
+<!--
+<div>
+    
+</div>
+<div style="display: flex; align-items: center;">
+    <Image src={pro} alt="" width="800" height="700"  style="margin-right: 20px;"/>
+     <div>
+        
+        <h1 class="mb-4 text-4xl font-extrabold  md:text-3xl lg:text-3xl dark:text-white">Интеллектуальные системы</h1>
+        <p>Этот текст будет отображаться сбоку от изображения. Можно добавлять абзацы, списки и другие элементы.</p>
+         
+      </div>
+    </div> -->
+<!-- our services section -->
+<section class="py-10" id="services">
+    <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Основные направления</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                <Image src={innov} alt=""
+                    class="w-full h-64 object-cover"/>
+                <div class="p-6 text-center">
+                    <h3 class="text-xl font-medium text-gray-800 mb-2">Система управления освещением </h3>
+                    <p class="text-gray-700 text-base">Система управления освещением — это электронная сеть, 
+                        которая позволяет автоматически регулировать включение, выключение, 
+                        интенсивность света. Контроль над освещением ведется с использованием различных протоколов.
+                        Система дистанционного управления освещением в сочетании с 
+                        энергоэффективными светодиодными светильниками позволяет сэкономить от 30 до 80% электроэнергии. </p>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                <Image src={compass} alt=""
+                    class="w-full h-64 object-cover"/>
+                <div class="p-6 text-center">
+                    <h3 class="text-xl font-medium text-gray-800 mb-2">Проектирование</h3>
+                    <p class="text-gray-700 text-base">Разрабатываем проект освещения, исходя из общего архитектурного или 
+                        интерьерного стиля. 
+                        Предложим разные решения для лофтов и классических зданий. Подскажем варианты с
+                         максимальной экономией энергии — это возможно 
+                        благодаря умным светильникам и их правильному расположению</p>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                <Image src={pro} alt=""
+                    class="w-full h-64 object-cover"/>
+                <div class="p-6 text-center">
+                    <h3 class="text-xl font-medium text-gray-800 mb-2">Автоматизация и диспетчеризация</h3>
+                    <p class="text-gray-700 text-base"> Современные технологии, которые мы применяем, позволяют
+                          нам предоставлять услуги автоматизации и диспетчеризации, полностью соответствующие самым высоким стандартам качества и
+                           безопасности. Мы используем передовое программное обеспечение и оборудование, 
+                        которые помогают нам реализовывать сложные проекты с минимальными затратами времени и ресурсов
+                    
+                    </p>
+
+                </div>
+            </div>
+            </div>
+    </div>
+</section><!-- about us -->
+<section class="bg-gray-100" id="aboutus">
+    <div class="container mx-auto py-16 px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
+            <div class="max-w-lg">
+                <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Наши партнеры</h2>
+                <p class="mt-4 text-gray-600 text-lg">
+                    АО «Ардатовский светотехнический завод» – одно из крупнейших светотехнических предприятий России. </p>
+                     <p class="mt-4 text-gray-600 text-lg">
+                        Научно-производственное объединение GALAD.</p>
+                        <p class="mt-4 text-gray-600 text-lg">ООО "Сарансккабель"- входит в пятерку крупнейших производителей кабельной продукции.</p>
+            </div>
+            <div class="mt-12 md:mt-0">
+                <img src="https://images.unsplash.com/photo-1531973576160-7125cd663d86" alt="About Us Image" class="object-cover rounded-lg shadow-md">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- why us  -->
+<section class="text-gray-700 body-font mt-10">
+    <div class="flex justify-center text-3xl font-bold text-gray-800 text-center">
+        Почему мы?
+    </div>
+    <div class="container px-5 py-12 mx-auto">
+        <div class="flex flex-wrap text-center justify-center">
+            <div class="p-4 md:w-1/4 sm:w-1/2">
+                <div class="px-4 py-6 transform transition duration-500 hover:scale-110">
+                    <div class="flex justify-center">
+                        <img src="https://image3.jdomni.in/banner/13062021/58/97/7C/E53960D1295621EFCB5B13F335_1623567851299.png?output-format=webp" class="w-32 mb-3">
+                    </div>
+                    <h2 class="title-font font-regular text-2xl text-gray-900">Продукт высокого качества</h2>
+                </div>
+            </div>
+
+            <div class="p-4 md:w-1/4 sm:w-1/2">
+                <div class="px-4 py-6 transform transition duration-500 hover:scale-110">
+                    <div class="flex justify-center">
+                        <img src="https://image2.jdomni.in/banner/13062021/3E/57/E8/1D6E23DD7E12571705CAC761E7_1623567977295.png?output-format=webp" class="w-32 mb-3">
+                    </div>
+                    <h2 class="title-font font-regular text-2xl text-gray-900">Адекватные цены</h2>
+                </div>
+            </div>
+
+            <div class="p-4 md:w-1/4 sm:w-1/2">
+                <div class="px-4 py-6 transform transition duration-500 hover:scale-110">
+                    <div class="flex justify-center">
+                        <img src="https://image3.jdomni.in/banner/13062021/16/7E/7E/5A9920439E52EF309F27B43EEB_1623568010437.png?output-format=webp" class="w-32 mb-3">
+                    </div>
+                    <h2 class="title-font font-regular text-2xl text-gray-900">Ценим ваше время</h2>
+                </div>
+            </div>
+
+            <div class="p-4 md:w-1/4 sm:w-1/2">
+                <div class="px-4 py-6 transform transition duration-500 hover:scale-110">
+                    <div class="flex justify-center">
+                        <img src="https://image3.jdomni.in/banner/13062021/EB/99/EE/8B46027500E987A5142ECC1CE1_1623567959360.png?output-format=webp" class="w-32 mb-3">
+                    </div>
+                    <h2 class="title-font font-regular text-2xl text-gray-900">Эксперты в отрасли</h2>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
